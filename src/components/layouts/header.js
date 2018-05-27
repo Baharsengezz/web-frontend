@@ -2,13 +2,16 @@ import React from 'react'
 
 // Logo
 import Logo from './logo'
+// nav
+import Nav from './navbar'
+
 
 const Header = (props) => {
     if (props.position === 'home') {
         return (
             <header>
-                Home
                 <Logo/>
+                <Nav/>
             </header>
         )
 
@@ -16,6 +19,7 @@ const Header = (props) => {
         return (
             <header>
                 <Logo/>
+                <Nav/>
             </header>
         )
     }
