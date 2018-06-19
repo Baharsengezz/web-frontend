@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Logo = () =>{
+const Events = () =>{
     return(
         <div>
-            "
+            <p>Etkinlikler</p>
         </div>
     )
 };
 
-export default Logo
+export default Events

@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Logo = () =>{
+const Lectures = () =>{
     return(
         <div>
-            "
+            <p>Eğitimler</p>
         </div>
     )
 };
 
-export default Logo
+export default Lectures

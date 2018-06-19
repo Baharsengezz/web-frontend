@@ -2,6 +2,7 @@ import React from 'react'
 
 // Components
 import {Header, Footer, Slider} from './../../components/layouts'
+import Body from './../../components/layouts/body'
 
 class Home extends React.Component {
     render() {
@@ -9,6 +10,7 @@ class Home extends React.Component {
            <main>
                <Header/>
                <Slider/>
+               <Body/>
                <Footer/>
            </main>
         )
