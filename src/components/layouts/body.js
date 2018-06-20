@@ -6,7 +6,7 @@ import Blog from './blog'
 
 const Body = () =>{
     return(
-        <div className="container">
+        <div className="container-fluid">
             <Lectures/>
             <Events/>
             <Blog/>
