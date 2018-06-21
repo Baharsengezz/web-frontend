@@ -1,6 +1,6 @@
 import React from 'react'
 
-const miniAbout = () =>{
+const MiniAbout = () =>{
     return(
         <div className='col-sm-4'>
             <h4>KodEvi</h4>
@@ -11,4 +11,4 @@ const miniAbout = () =>{
     )
 };
 
-export default miniAbout
+export default MiniAbout

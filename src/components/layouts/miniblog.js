@@ -1,6 +1,6 @@
 import React from 'react'
 
-const miniBlog = () =>{
+const MiniBlog = () =>{
     return(
         <div className='col-sm-4'>
             <div className='blog-comment-f'>
@@ -31,4 +31,4 @@ const miniBlog = () =>{
     )
 };
 
-export default miniBlog
+export default MiniBlog

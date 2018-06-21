@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9a27f8c-b90a-4771-83d9-4151b53a2a5e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/layouts/bottom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layouts/miniabout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layouts/miniblog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layouts/minimenu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layouts/top.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layouts/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/blog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layouts/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layouts/miniabout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/miniabout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layouts/miniblog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/miniblog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layouts/minimenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/minimenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layouts/top.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/top.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -48,11 +43,8 @@
       <file leaf-file-name="top.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/layouts/top.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -60,8 +52,8 @@
       <file leaf-file-name="miniabout.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/layouts/miniabout.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+            <state relative-caret-position="30">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -69,8 +61,8 @@
       <file leaf-file-name="minimenu.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/layouts/minimenu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+            <state relative-caret-position="240">
+              <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -78,8 +70,8 @@
       <file leaf-file-name="miniblog.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/layouts/miniblog.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="135">
+              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -134,10 +126,10 @@
         <option value="$PROJECT_DIR$/src/components/layouts/events.js" />
         <option value="$PROJECT_DIR$/src/components/layouts/footer.js" />
         <option value="$PROJECT_DIR$/src/components/layouts/bottom.js" />
+        <option value="$PROJECT_DIR$/public/assets/css/style.css" />
         <option value="$PROJECT_DIR$/src/components/layouts/miniabout.js" />
         <option value="$PROJECT_DIR$/src/components/layouts/minimenu.js" />
         <option value="$PROJECT_DIR$/src/components/layouts/miniblog.js" />
-        <option value="$PROJECT_DIR$/public/assets/css/style.css" />
         <option value="$PROJECT_DIR$/src/components/layouts/top.js" />
       </list>
     </option>
@@ -292,12 +284,12 @@
       <workItem from="1529437799029" duration="2041000" />
       <workItem from="1529450574108" duration="4147000" />
       <workItem from="1529508133970" duration="2733000" />
-      <workItem from="1529599466281" duration="4983000" />
+      <workItem from="1529599466281" duration="5057000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22895000" />
+    <option name="totallyTimeSpent" value="22969000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
@@ -600,32 +592,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/layouts/miniblog.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="135">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/layouts/minimenu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        <state relative-caret-position="240">
+          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/layouts/miniabout.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/layouts/top.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>

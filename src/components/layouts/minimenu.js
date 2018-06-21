@@ -1,6 +1,6 @@
 import React from 'react'
 
-const miniMenu = () =>{
+const MiniMenu = () =>{
     return(
         <div className="col-sm-4">
             <h4>Menü</h4>
@@ -16,4 +16,4 @@ const miniMenu = () =>{
     )
 };
 
-export default miniMenu
+export default MiniMenu
