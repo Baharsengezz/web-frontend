@@ -1,8 +1,16 @@
 import React from 'react'
 
+import Top from './top'
+import Bottom from './bottom'
+
 const Footer = () =>{
     return(
-        <footer> </footer>
+        <footer>
+            <div className="container-fluid">
+                <Top/>
+                <Bottom/>
+            </div>
+        </footer>
     )
 };
 
